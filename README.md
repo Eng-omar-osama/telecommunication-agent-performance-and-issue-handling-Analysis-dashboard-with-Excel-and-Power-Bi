@@ -1,4 +1,4 @@
-![Screenshot 2024-10-23 174632](https://github.com/user-attachments/assets/73f06df8-d5ec-4346-9272-103558d155bc)![Screenshot 2024-10-23 174632](https://github.com/user-attachments/assets/1e7c9793-f078-4a78-b25b-bebe0e01d0d5)About this project
+About this project
 
 The dashboard helps identify workload distribution and agent allocation across languages, revealing trends in case volume.
 It enables data-driven decisions to optimize resource management and improve customer service performance.
